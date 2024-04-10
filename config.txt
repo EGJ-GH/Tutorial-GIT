@@ -1,0 +1,2 @@
+log = config
+version=version1
