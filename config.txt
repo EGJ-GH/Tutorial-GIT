@@ -1,2 +1,2 @@
 log = config
-version=version3
+version=version1
